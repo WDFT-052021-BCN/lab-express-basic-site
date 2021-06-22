@@ -1,0 +1,42 @@
+.nav-bar{
+    background-color: rgb(143, 245, 245);
+    margin: 0;
+    padding: 15px 0;
+    
+}
+.nav-bar-ul{
+    display: flex;
+    justify-content: flex-end;
+}
+.nav-bar-ul li{
+    padding: 0 10px 0 10px;
+    list-style: none;
+}
+
+a{
+    font-size: 25px;
+    text-decoration: none;
+}
+
+h1{
+    font-size: 50px;
+    position: fixed;
+    left: auto;
+    right:45%;
+}
+h2{
+    font-size: 30px;
+    position: fixed;
+    left: auto;
+    top: 20%;
+    right: 45%;
+}
+
+.home-image{
+    width: 700px;
+    height: 500px;
+    position: fixed;
+    top: 35%;
+    left: auto;
+    right: 15%;
+}
